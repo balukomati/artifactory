@@ -1,5 +1,6 @@
 # Pull base image 
 From tomcat:8-jre8 
+# this is Artifactory Project
 
 # Maintainer 
 MAINTAINER "valaxytech@gmail.com" 
